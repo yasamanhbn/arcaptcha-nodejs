@@ -1,9 +1,11 @@
-<h1>
-  <img src="https://arcaptcha.co/logo.png" width="80" />
-  Arcaptcha
-</h1>
+# NodeS Arcaptcha Component Library
 
-Validate and display captcha from Arcaptcha easily in nodejs.
+## Description
+ARCaptcha Component Library for NodeJS
+
+[Arcaptcha](https://arcaptcha.ir/) is a drop-replacement for reCAPTCHA and hCaptcha that protects user privacy, rewards websites, and helps companies get their data labeled.
+
+Sign up at [Arcaptcha](https://arcaptcha.ir/sign-up) to get your sitekey today. You need a **sitekey** to use this library.
 
 ## Installation
 
