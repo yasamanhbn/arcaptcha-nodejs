@@ -29,6 +29,7 @@ const verify = (secret_key, site_key, challenge_id) => {
 };
 
 const displayCaptcha = (
+  site_key,
   size = "normal",
   callback = null,
   theme = "light",

@@ -1,6 +1,6 @@
 {
   "name": "arcaptcha-nodejs",
-  "version": "1.0.3",
+  "version": "1.0.7",
   "description": "",
   "main": "index.js",
   "scripts": {
