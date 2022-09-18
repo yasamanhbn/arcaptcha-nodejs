@@ -1,4 +1,4 @@
-# NodeS Arcaptcha Component Library
+# NodeJS Arcaptcha Component Library
 
 ## Description
 ARCaptcha Component Library for NodeJS
